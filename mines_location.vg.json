@@ -38,6 +38,7 @@
         "color": {
           "field": "Commodity Group",
           "type": "nominal",
+          "legend": {"title": "Type of Mine"},
           "scale": {"domain": [
               "Bauxite", "Coal", "Diamond",  "Iron ore", "Lithium", "Metal Deposits", "Rare earth elements", 
               "Uranium"
