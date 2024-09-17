@@ -22,7 +22,7 @@ Barbara,139.84898,-20.41682,Base metals,QLD
 Batavia,118.42040,-26.66060,Precious metals,WA
 Bauxite Hills,142.04488,-11.83479,Bauxite,QLD
 Bengalla,150.84600,-32.27150,Coal,NSW
-Beta Hunt,121.69392,-31.24026,Battery metals,WA
+Beta Hunt,121.69392,-31.24026,Battery/Alloy metals,WA
 Big Bell,117.65420,-27.32090,Precious metals,WA
 Blackwater,148.80736,-23.68559,Coal,QLD
 Blair Athol,147.52700,-22.69050,Coal,QLD
@@ -31,7 +31,7 @@ Bluebird,118.42510,-26.71620,Precious metals,WA
 Boddington,116.35810,-32.75090,Base metals,WA
 Boggabri,150.16334,-30.59041,Coal,NSW
 Boonanarring,115.83464,-31.22368,Heavy mineral sands,WA
-Bootu Creek,134.12584,-18.69976,Battery metals,NT
+Bootu Creek,134.12584,-18.69976,Battery/Alloy metals,NT
 Broadlea,148.18250,-21.92670,Coal,QLD
 Broadmeadow,148.15245,-21.80761,Coal,QLD
 Brockman 2,117.34386,-22.43810,Iron ore,WA
@@ -61,7 +61,7 @@ Cheriton's Find,119.65920,-31.83070,Precious metals,WA
 Chesney,145.85780,-31.52122,Base metals,NSW
 Clarence,150.24393,-33.45648,Coal,NSW
 Clermont,147.63077,-22.68922,Coal,QLD
-Cliffs,120.55283,-27.31049,Battery metals,WA
+Cliffs,120.55283,-27.31049,Battery/Alloy metals,WA
 Cloncurry,140.74100,-20.75734,Precious metals,QLD
 Cloudbreak,119.39639,-22.30278,Iron ore,WA
 Christmas Creek,119.39639,-22.30278,Iron ore,WA
@@ -103,7 +103,7 @@ Ewington,116.25000,-33.36240,Coal,WA
 Fairplay,121.72390,-31.74920,Precious metals,WA
 Federal Flag,120.64750,-30.13620,Precious metals,WA
 Firetail,117.76949,-22.12867,Iron ore,WA
-Flying Fox,119.68899,-32.41846,Battery metals,WA
+Flying Fox,119.68899,-32.41846,Battery/Alloy metals,WA
 Fortnum,118.36000,-25.33000,Precious metals,WA
 Fosterville,144.50360,-36.71630,Precious metals,VIC
 Four Mile,139.52917,-30.14167,Uranium,SA
@@ -126,7 +126,7 @@ Gove,136.83702,-12.26112,Bauxite,NT
 Granite Belt,151.29045,-28.83055,Base metals,QLD
 Granny Smith,122.42300,-28.81200,Precious metals,WA
 Greenbushes,116.06683,-33.85585,Lithium,WA
-Groote Eylandt,136.44555,-13.99216,Battery metals,NT
+Groote Eylandt,136.44555,-13.99216,Battery/Alloy metals,NT
 Grosvenor,147.99273,-21.87317,Coal,QLD
 Gruyere,123.87800,-28.01060,Precious metals,WA
 Gwalia,121.33400,-28.91850,Precious metals,WA
@@ -206,7 +206,7 @@ Mount Colin,140.04450,-20.77590,Base metals,QLD
 Mount Garnet,145.11260,-17.68490,Base metals,QLD
 Mount Gordon,139.36316,-19.69493,Base metals,QLD
 Mount Isa ,139.47835,-20.74339,Base metals,QLD
-Mount Keith,120.54174,-27.22960,Battery metals,WA
+Mount Keith,120.54174,-27.22960,Battery/Alloy metals,WA
 Mount Magnet,117.81412,-28.02897,Precious metals,WA
 Mount Margaret,140.78290,-20.44240,Base metals,QLD
 Mount Margaret ,117.81412,-28.02897,Precious metals,WA
@@ -226,7 +226,7 @@ Mount Wright,146.83200,-20.04040,Precious metals,QLD
 Mountain of Light,138.45128,-30.57893,Base metals,SA
 Mungari,121.32280,-30.88757,Precious metals,WA
 Murrawombie,146.87190,-31.25860,Base metals,
-Murrin Murrin,121.89300,-28.76680,Battery metals,WA
+Murrin Murrin,121.89300,-28.76680,Battery/Alloy metals,WA
 Muswellbrook,150.94139,-32.24499,Coal,NSW
 Myuna,151.56874,-33.06011,Coal,NSW
 Nammuldi,117.39530,-22.40687,Iron ore,WA
@@ -241,7 +241,7 @@ North Goonyella - Eaglefield,147.97662,-21.64755,Coal,
 North Royal,121.80870,-32.13260,Precious metals,WA
 North Stradbroke Island,153.44350,-27.47679,Heavy mineral sands,QLD
 Northparkes,148.04980,-32.91350,Base metals,NSW
-Nova-Bollinger,123.19241,-31.81989,Battery metals,WA
+Nova-Bollinger,123.19241,-31.81989,Battery/Alloy metals,WA
 Nullagine,120.15630,-21.95230,Precious metals,WA
 Oaky Creek,148.49321,-23.04158,Coal,QLD
 Olympic Dam,136.88929,-30.43744,Base metals,SA
@@ -255,7 +255,7 @@ Paulsens,116.24260,-22.57940,Precious metals,WA
 Peak Downs ,148.17307,-22.21991,Coal,QLD
 Peak Mines,145.86913,-31.55394,Base metals,NSW
 Perseverance,145.88240,-31.57150,Base metals,NSW
-Perseverance,120.69724,-27.78889,Battery metals,WA
+Perseverance,120.69724,-27.78889,Battery/Alloy metals,WA
 Phosphate Hill,139.96821,-21.87456,Fertiliser elements,QLD
 Pilgangoora (Altura),118.91968,-20.99241,Lithium,WA
 Pilgangoora (Pilbara),118.89530,-21.07230,Lithium,WA
@@ -288,7 +288,7 @@ Sand King,120.96240,-30.21110,Precious metals,WA
 Santa,122.20280,-31.04560,Precious metals,WA
 Saraji,148.29105,-22.36938,Coal,QLD
 Savage River,145.20443,-41.48798,Iron ore,TAS
-Savannah,128.02349,-17.34721,Battery metals,WA
+Savannah,128.02349,-17.34721,Battery/Alloy metals,WA
 Scuddles,116.94360,-28.74520,Base metals,WA
 Silvergrass ,117.18516,-22.18330,Iron ore,WA
 Snapper,142.12539,-33.41521,Heavy mineral sands,NSW
@@ -296,7 +296,7 @@ Sonoma,147.86000,-20.62000,Coal,QLD
 South Kalgoorlie,121.61480,-31.03850,Precious metals,WA
 South Walker Creek,148.44271,-21.77094,Coal,QLD
 Southern Cross,119.50270,-31.46600,Precious metals,WA
-Spotted Quoll,119.67780,-32.47818,Battery metals,WA
+Spotted Quoll,119.67780,-32.47818,Battery/Alloy metals,WA
 Springvale,150.10563,-33.40060,Coal,NSW
 St Ives,121.74510,-31.32430,Precious metals,WA
 Stratford,151.97360,-32.11766,Coal,NSW
@@ -341,7 +341,7 @@ Wilpinjong,149.88500,-32.33200,Coal,NSW
 Wollombi,147.90100,-21.25440,Coal,QLD
 Wombola,121.83170,-30.99870,Precious metals,WA
 Wonnerup ,115.45060,-33.65378,Heavy mineral sands,WA
-Woodie Woodie,121.23547,-21.63877,Battery metals,WA
+Woodie Woodie,121.23547,-21.63877,Battery/Alloy metals,WA
 Woodlawn,149.57168,-35.06132,Base metals,NSW
 Worsley,116.45591,-32.92921,Bauxite,WA
 Yallourn,146.36040,-38.19506,Coal,VIC
