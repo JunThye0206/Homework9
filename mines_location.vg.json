@@ -30,15 +30,23 @@
       "data": {
         "url": "https://raw.githubusercontent.com/JunThye0206/Data-Visualisation-2/main/Data/Mining_map.csv"
       },
-      "mark": {"type": "circle", "tooltip": {"content": "data"}},
+      "mark": {"type": "circle", "tooltip": {"content": "data"},"stroke": "black", 
+        "strokeWidth": 0.5},
       "encoding": {
         "longitude": {"field": "Longitude", "type": "quantitative"},
         "latitude": {"field": "Latitude", "type": "quantitative"},
         "color": {
           "field": "Commodity Group",
           "type": "nominal",
-          "scale": {"domain": ["Base metals", "Battery/Alloy metals", "Bauxite", "Coal","Diamond","Heavy mineral sands","Iron ore","Lithium","Other metals","Precious metals","Rare earth elements","Uranium"], 
-            "range": ["#a6cees", "#1f78b4", "#b2df8a", "#33a02c","#fb9a99", "#e31a1c", "#fdbf6f", "#ff7f00","#cab2dr", "#6a3d9a", "#ffff99", "#b15928"]}
+          "scale": {"domain": [
+              "Base metals", "Battery/Alloy metals", "Bauxite", "Coal", "Diamond", 
+              "Heavy mineral sands", "Iron ore", "Lithium", "Other metals", 
+              "Precious metals", "Rare earth elements", "Uranium"
+            ], 
+            "range": [
+              "#8dd3c7", "#ffffb3", "#bebada", "#fb8072", "#80b1d3", "#fdb462", 
+              "#b3de69", "#fccde5", "#d9d9d9", "#bc80bd", "#ccebc5", "#ffed6f"
+            ]}
         }
         
         
