@@ -10,7 +10,21 @@
         "url": "https://raw.githubusercontent.com/JunThye0206/Data-Visualisation-2/main/ne.topojson",
         "format": {"type": "topojson", "feature": "ne_50m_admin_1_states_provinces"}
       },
-      "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"}
+      "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "black"}
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/JunThye0206/Data-Visualisation-2/main/ne.topojson",
+        "format": {"type": "topojson", "feature": "ne_50m_lakes"}
+      },
+      "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "black"}
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/JunThye0206/Data-Visualisation-2/main/ne.topojson",
+        "format": {"type": "topojson", "feature": "ne_50m_rivers_lake_centerlines"}
+      },
+      "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "black"}
     },
     {
       "data": {
@@ -23,7 +37,8 @@
         "color": {
           "field": "Commodity Group",
           "type": "nominal",
-          "scale": {"scheme": "category10"}
+          "scale": {"domain": ["Base metals", "Battery/Alloy metals", "Bauxite", "Coal","Diamond","Heavy mineral sands","Iron ore","Lithium","Other metals","Precious metals","Rare earth elements","Uranium"], 
+            "range": ["#a6cees", "#1f78b4", "#b2df8a", "#33a02c","#fb9a99", "#e31a1c", "#fdbf6f", "#ff7f00","#cab2dr", "#6a3d9a", "#ffff99", "#b15928"]}
         }
         
         
