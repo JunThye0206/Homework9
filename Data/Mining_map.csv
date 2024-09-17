@@ -1,4 +1,4 @@
-﻿Deposit Name,Longitude,Latitude,Commodity Group,State
+Deposit Name,Longitude,Latitude,Commodity Group,State
 A1,146.19970,-37.50510,Precious metals,VIC
 Agate Creek,143.60200,-18.88400,Base metals,QLD
 Agnew,120.50810,-28.00071,Precious metals,WA
@@ -256,7 +256,6 @@ Peak Downs ,148.17307,-22.21991,Coal,QLD
 Peak Mines,145.86913,-31.55394,Base metals,NSW
 Perseverance,145.88240,-31.57150,Base metals,NSW
 Perseverance,120.69724,-27.78889,Battery/Alloy metals,WA
-Phosphate Hill,139.96821,-21.87456,Fertiliser elements,QLD
 Pilgangoora (Altura),118.91968,-20.99241,Lithium,WA
 Pilgangoora (Pilbara),118.89530,-21.07230,Lithium,WA
 Plutonic,119.44370,-25.31710,Precious metals,WA
